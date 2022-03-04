@@ -1,0 +1,16 @@
+PODS:
+  - GreatLibrary (0.1.0)
+
+DEPENDENCIES:
+  - GreatLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  GreatLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GreatLibrary: 0042bb0a797cf781f9bdcfe9c79ace855db2c7b3
+
+PODFILE CHECKSUM: fd4260544249271a1300f5a9cb07ed723aa4747e
+
+COCOAPODS: 1.11.2

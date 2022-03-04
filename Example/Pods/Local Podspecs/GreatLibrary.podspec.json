@@ -1,0 +1,22 @@
+{
+  "name": "GreatLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of GreatLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Venkatareddy Seelam/GreatLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Venkatareddy Seelam": "45472390+venkatAmigo@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/Venkatareddy Seelam/GreatLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GreatLibrary/Classes/**/*"
+}

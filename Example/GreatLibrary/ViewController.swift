@@ -7,12 +7,16 @@
 //
 
 import UIKit
-
+import GreatLibrary
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let myLogger = PrintGiver()
+        myLogger.logPrint()
+        
+        
     }
 
     override func didReceiveMemoryWarning() {

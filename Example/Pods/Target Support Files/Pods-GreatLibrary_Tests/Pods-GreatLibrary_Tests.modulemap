@@ -1,0 +1,6 @@
+framework module Pods_GreatLibrary_Tests {
+  umbrella header "Pods-GreatLibrary_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

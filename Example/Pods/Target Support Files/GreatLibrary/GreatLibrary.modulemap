@@ -1,0 +1,6 @@
+framework module GreatLibrary {
+  umbrella header "GreatLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
